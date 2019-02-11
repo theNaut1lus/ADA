@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// Testing using Version Control.
+
 int board[20], c;
 
 int main() {
